@@ -6,15 +6,15 @@
 With five years of retail industry experience, including two years as an FMCG Buyer, I am pursuing a Master of Science in Supply Chain Management at Saint Louis University. I aim to deepen my expertise in supply chain management, information technology, and operational processes, and drive business growth while fostering innovation in a dynamic environment.
 
 ## **Education**
-- **Saint Louis University, St. Louis, Missouri, USA**  
+**Saint Louis University, St. Louis, Missouri, USA**  
   Master of Science in Supply Chain Management (01/2024 - 12/2025)  
   Relevant Coursework: Prescriptive Analytics, Pricing & Revenue Analytics, Forecasting and Demand Management, Supply, Demand, and Technology, Applied Business Statistics.
 
-- **Ho Chi Minh University of Banking, Ho Chi Minh City, Vietnam**  
+**Ho Chi Minh University of Banking, Ho Chi Minh City, Vietnam**  
   Business Administration (High-Quality Program) (08/2014 - 09/2018)
 
 ## **Work Experience**
-- **Central Retail Vietnam - minigo!**  
+**Central Retail Vietnam - minigo!**  
   *Ho Chi Minh City, Vietnam*  
   *FMCG Buyer* (10/2021 - 12/2023)
   - Centralized supply management for stores, coordinating with central warehouses to ensure stock replenishment aligns with store capacity.
@@ -25,7 +25,7 @@ With five years of retail industry experience, including two years as an FMCG Bu
   - Implemented strategies for dated/obsolete products to manage demand effectively and reduce potential losses.
   - Generated performance reports to provide insights for demand planning.
 
-- **MM Mega Market Vietnam**  
+**MM Mega Market Vietnam**  
   *Ho Chi Minh City, Vietnam*  
   *Business Insight Senior Executive* (04/2020 - 10/2021)
   - Leveraged data insights to measure and analyze business performance across multiple departments, driving informed decision-making.
@@ -46,7 +46,7 @@ With five years of retail industry experience, including two years as an FMCG Bu
   - Assisted the sales team in preparing approval documents, quotes, and B2B contracts, ensuring timely and accurate completion.
   - Managed contracts and monitored departmental expenses to maintain budget compliance and adhere to financial guidelines.
 
-- **Bureau Veritas Customer Products Services Vietnam**  
+**Bureau Veritas Customer Products Services Vietnam**  
   *Ho Chi Minh City, Vietnam*  
   *General Admin* (07/2018 - 11/2018)
   - Assisted with general office administration, ensuring smooth and efficient operations.
@@ -56,13 +56,13 @@ With five years of retail industry experience, including two years as an FMCG Bu
   - Performed accurate data entry and tracked expenses on a weekly and monthly basis, supporting financial oversight.
 
 ## **Academic Experience**
-- **Pricing Projects**  
+**Pricing Projects**  
   *Revenue and Pricing Analytics, Saint Louis University*
   - **Porsche Drive**: Explored the innovative car subscription business model, utilizing cost-based, market-based, and value-based pricing strategies to recommend pricing approaches.
   - **Nomis Case A and B**: Studied the car loan industry and analyzed loan application and acceptance data. Built logistic regression models in R to examine the relationship between loan acceptance probability and key variables, and customized APRs for various customer segments to maximize expected profit.
   - **MAC Cosmetic Final Project**: Applied pricing techniques in the course final project and studied pricing practices at MAC Cosmetic.
 
-- **Supply Chain Optimization and Production Planning Project**  
+**Supply Chain Optimization and Production Planning Project**  
   *Prescriptive Analytics, Saint Louis University*
   - **Giant Motor Company I**: Utilized a mixed-integer programming (MIP) model to optimize GMC’s production and supply chain operations. Formulated and implemented constraints to address demand diversion, optimizing capacity utilization, maximizing net profit, and identifying the optimal plant utilization.
 
