@@ -16,7 +16,7 @@ With five years of retail industry experience, including two years as an FMCG Bu
 ## **Work Experience**
 **Central Retail Vietnam - minigo!**  
   *Ho Chi Minh City, Vietnam*  
-  *FMCG Buyer* (10/2021 - 12/2023)
+  **FMCG Buyer** (10/2021 - 12/2023)
   - Centralized supply management for stores, coordinating with central warehouses to ensure stock replenishment aligns with store capacity.
   - Analyzed rotation stock day (RTD) data to optimize stock levels and set forecasts for key products and peak seasons.
   - Automated orders using supply, turnover, and delivery indicators to maintain inventory accuracy and minimize excess stock.
@@ -27,12 +27,12 @@ With five years of retail industry experience, including two years as an FMCG Bu
 
 **MM Mega Market Vietnam**  
   *Ho Chi Minh City, Vietnam*  
-  *Business Insight Senior Executive* (04/2020 - 10/2021)
+  **Business Insight Senior Executive** (04/2020 - 10/2021)
   - Leveraged data insights to measure and analyze business performance across multiple departments, driving informed decision-making.
   - Developed and automated reports and dashboards for market analysis, enhancing operational efficiency.
   - Collaborated with cross-functional teams to design and implement data analysis tools, improving business strategies.
 
-  *Assistant Category Manager, Fruit and Vegetables* (07/2019 - 04/2020)
+  **Assistant Category Manager, Fruit and Vegetables** (07/2019 - 04/2020)
   - Managed product assortments to align with customer preferences and business requirements, optimizing the mix for improved results.
   - Improved product selection strategies, contributing to increased sales and faster inventory turnover.
   - Collaborated with teams and suppliers to set up promotions, enhancing product visibility and driving revenue growth.
@@ -41,14 +41,14 @@ With five years of retail industry experience, including two years as an FMCG Bu
   - Managed system operations, including replenishment processes, pricing adjustments, and product listing/delisting for category accuracy.
   - Generated detailed daily and monthly reports to support data-driven decision-making and strategic planning.
 
-  *Sales Force Assistant* (11/2018 - 05/2019)
+  **Sales Force Assistant** (11/2018 - 05/2019)
   - Maintained and monitored daily sales reports, providing insights to track performance and inform strategic decisions.
   - Assisted the sales team in preparing approval documents, quotes, and B2B contracts, ensuring timely and accurate completion.
   - Managed contracts and monitored departmental expenses to maintain budget compliance and adhere to financial guidelines.
 
 **Bureau Veritas Customer Products Services Vietnam**  
   *Ho Chi Minh City, Vietnam*  
-  *General Admin* (07/2018 - 11/2018)
+  **General Admin** (07/2018 - 11/2018)
   - Assisted with general office administration, ensuring smooth and efficient operations.
   - Supported employee visa applications and work permit processes, maintaining compliance with legal requirements.
   - Provided comprehensive support to Heads of Departments, including scheduling meetings, welcoming guests, and managing paperwork.
