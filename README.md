@@ -2,7 +2,7 @@
 
 - **[Email]**: (hoangbichtram.pham@slu.edu)
 - **Tel**: 314-760-6298
-- **LinkedIn**: Hoang Bich Tram Pham
+- **LinkedIn**: (www.linkedin.com/in/hoang-bich-tram-tram-8580a7158/)
 
 ## Summary & Objective
 With five years of retail industry experience, including two years as an FMCG Buyer, I am pursuing a Master of Science in Supply Chain Management at Saint Louis University. I aim to deepen my expertise in supply chain management, information technology, and operational processes, and drive business growth while fostering innovation in a dynamic environment.
