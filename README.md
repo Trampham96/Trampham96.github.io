@@ -2,10 +2,10 @@
 
 [Email](hoangbichtram.pham@slu.edu) | **Tel**: 314-760-6298 | [LinkedIn](www.linkedin.com/in/hoang-bich-tram-tram-8580a7158/) | [Github](https://trampham96.github.io/)
 
-## Summary & Objective
+## **Summary & Objective**
 With five years of retail industry experience, including two years as an FMCG Buyer, I am pursuing a Master of Science in Supply Chain Management at Saint Louis University. I aim to deepen my expertise in supply chain management, information technology, and operational processes, and drive business growth while fostering innovation in a dynamic environment.
 
-## Education
+## **Education**
 - **Saint Louis University, St. Louis, Missouri, USA**  
   Master of Science in Supply Chain Management (01/2024 - 12/2025)  
   Relevant Coursework: Prescriptive Analytics, Pricing & Revenue Analytics, Forecasting and Demand Management, Supply, Demand, and Technology, Applied Business Statistics.
@@ -13,7 +13,7 @@ With five years of retail industry experience, including two years as an FMCG Bu
 - **Ho Chi Minh University of Banking, Ho Chi Minh City, Vietnam**  
   Business Administration (High-Quality Program) (08/2014 - 09/2018)
 
-## Work Experience
+## **Work Experience**
 - **Central Retail Vietnam - minigo!**  
   *Ho Chi Minh City, Vietnam*  
   *FMCG Buyer* (10/2021 - 12/2023)
@@ -55,7 +55,7 @@ With five years of retail industry experience, including two years as an FMCG Bu
   - Managed contracts, expenses, office supplies, and billing cycles, optimizing administrative efficiency.
   - Performed accurate data entry and tracked expenses on a weekly and monthly basis, supporting financial oversight.
 
-## Academic Experience
+## **Academic Experience**
 - **Pricing Projects**  
   *Revenue and Pricing Analytics, Saint Louis University*
   - **Porsche Drive**: Explored the innovative car subscription business model, utilizing cost-based, market-based, and value-based pricing strategies to recommend pricing approaches.
@@ -66,12 +66,12 @@ With five years of retail industry experience, including two years as an FMCG Bu
   *Prescriptive Analytics, Saint Louis University*
   - **Giant Motor Company I**: Utilized a mixed-integer programming (MIP) model to optimize GMC’s production and supply chain operations. Formulated and implemented constraints to address demand diversion, optimizing capacity utilization, maximizing net profit, and identifying the optimal plant utilization.
 
-## Skills
+## **Skills**
 - **Languages**: Advanced English, Native Vietnamese.
 - **Software**: Microsoft Office, Power Query, RStudio, Power BI, Python.
 - **Core Competencies**: Problem-solving, negotiation, data analysis, detail-oriented, strong interpersonal and collaboration skills, experience in training and mentoring, organizational skills with proven flexibility and adaptability, and multi-tasking.
 
-## Awards & Honors
+## **Awards & Honors**
 - Recipient of five Merit Awards for academic and professional excellence.
 - Awarded the Bank Governor Scholarship for outstanding performance.
 - Participated in scientific research projects, contributing to significant advancements in the field.
