@@ -64,7 +64,8 @@ With five years of retail industry experience, including two years as an FMCG Bu
 **Supply Chain Optimization and Production Planning Project | Prescriptive Analytics, Saint Louis University**
   - **Giant Motor Company I**: Utilized a mixed-integer programming (MIP) model to optimize GMC’s production and supply chain operations. Formulated and implemented constraints to address demand diversion, optimizing capacity utilization, maximizing net profit, and identifying the optimal plant utilization.
 
-[**Forecasting and Demand Management**](https://trampham96.github.io/Projects/)
+**Forecasting and Demand Management**
+[Link](https://trampham96.github.io/Projects/)
 
 ## **Skills**
 - **Languages**: Advanced English, Native Vietnamese.
