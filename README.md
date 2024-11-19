@@ -1,6 +1,6 @@
 # Hoang Bich Tram Pham
 
-- **[Email]**: (hoangbichtram.pham@slu.edu)
+- **Email**: (hoangbichtram.pham@slu.edu)
 - **Tel**: 314-760-6298
 - **LinkedIn**: (www.linkedin.com/in/hoang-bich-tram-tram-8580a7158/)
 
