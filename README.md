@@ -56,14 +56,12 @@ With five years of retail industry experience, including two years as an FMCG Bu
   - Performed accurate data entry and tracked expenses on a weekly and monthly basis, supporting financial oversight.
 
 ## **Academic Experience**
-**Pricing Projects**  
-  *Revenue and Pricing Analytics, Saint Louis University*
+**Pricing Projects | Revenue and Pricing Analytics, Saint Louis University**
   - **Porsche Drive**: Explored the innovative car subscription business model, utilizing cost-based, market-based, and value-based pricing strategies to recommend pricing approaches.
   - **Nomis Case A and B**: Studied the car loan industry and analyzed loan application and acceptance data. Built logistic regression models in R to examine the relationship between loan acceptance probability and key variables, and customized APRs for various customer segments to maximize expected profit.
   - **MAC Cosmetic Final Project**: Applied pricing techniques in the course final project and studied pricing practices at MAC Cosmetic.
 
-**Supply Chain Optimization and Production Planning Project**  
-  *Prescriptive Analytics, Saint Louis University*
+**Supply Chain Optimization and Production Planning Project | Prescriptive Analytics, Saint Louis University**
   - **Giant Motor Company I**: Utilized a mixed-integer programming (MIP) model to optimize GMC’s production and supply chain operations. Formulated and implemented constraints to address demand diversion, optimizing capacity utilization, maximizing net profit, and identifying the optimal plant utilization.
 
 ## **Skills**
