@@ -8,7 +8,7 @@ With five years of retail industry experience, including two years as an FMCG Bu
 ## **Education**
 **Saint Louis University, St. Louis, Missouri, USA**  
   Master of Science in Supply Chain Management (01/2024 - 12/2025)  
-  Relevant Coursework: Prescriptive Analytics, Pricing & Revenue Analytics, Forecasting and Demand Management, Supply, Demand, and Technology, Applied Business Statistics.
+  **Relevant Coursework**: Prescriptive Analytics, Pricing & Revenue Analytics, Forecasting and Demand Management, Supply, Demand, and Technology, Applied Business Statistics.
 
 **Ho Chi Minh University of Banking, Ho Chi Minh City, Vietnam**  
   Business Administration (High-Quality Program) (08/2014 - 09/2018)
